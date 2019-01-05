@@ -1,2 +1,2 @@
 # MachineLearning-Coursera
-The acquisition of knowledge  about machine learning by Stanford University conducted by Andrew Ng
+The assognments of the Neural Networks and Deep Learning on coursera by Stanform University
